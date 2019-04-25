@@ -40,3 +40,13 @@ views Folder
 	-contains app.js for server initialization
 	-contains package-lock.json and package.json for dependencies
 	-contains terminal.sql for DB initialization
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Authors: Ricardo Villarreal,
